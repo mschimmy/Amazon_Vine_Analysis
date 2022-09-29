@@ -17,6 +17,7 @@ The purpose of this analysis is to perform the ETL process to extract the datase
 ![Review Counts and Percentages](https://github.com/mschimmy/Amazon_Vine_Analysis/blob/main/images/Review_counts_percentages.png)
 <sub>Review Counts and Percentages</sub>
 
+### Analysis
 How many Vine reviews and non-Vine reviews were there?
 - There were a total of 47 Vine reviews and 8,362 non-Vine reviews in the dataset.
 
