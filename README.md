@@ -8,19 +8,21 @@ The purpose of this analysis is to perform the ETL process to extract the datase
 ).
 
 ## Results
-![Vine Reviews](GITHUB LINK)
+![Vine Reviews](https://github.com/mschimmy/Amazon_Vine_Analysis/blob/main/images/Vine_reviews.png)
 <sub>Vine Reviews</sub>
 
-![Non-Vine Reviews](GITHUB LINK)
+![Non-Vine Reviews](https://github.com/mschimmy/Amazon_Vine_Analysis/blob/main/images/Non-Vine_reviews.png)
 <sub>Non-Vine Reviews</sub>
 
-![Review Counts and Percentages](GITHUB LINK)
+![Review Counts and Percentages](https://github.com/mschimmy/Amazon_Vine_Analysis/blob/main/images/Review_counts_percentages.png)
 <sub>Review Counts and Percentages</sub>
 
 How many Vine reviews and non-Vine reviews were there?
 - There were a total of 47 Vine reviews and 8,362 non-Vine reviews in the dataset.
+
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - There were a total of 15 5-star Vine reviews, and 4,332 5-star non-Vine reviews in the dataset.
+
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 - The percentage of 5-star Vine reviews was 31.915%, and the percentage of 5-star non-Vine reviews was 51.806%.
 
